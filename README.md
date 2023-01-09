@@ -1,6 +1,6 @@
 <h1 align="center"> Haloo Semua 👋 </h1>
 <p align="center"></p> 
-<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
+<img align="right" src="https://miro.medium.com/max/720/1*PJ_LNrqaaASgFMXwFKvcMg.webp" height="300" width="300">
 <h3 align="center"> Language & Skills </h3>
 
 -Figma <br>
@@ -16,7 +16,7 @@
 
 
 <p align="center">
-<a href="https://github.com/SetiyoPramono" target="blank"><img align="center" src="https://miro.medium.com/max/720/1*PJ_LNrqaaASgFMXwFKvcMg.webp" alt="aayushi-droid" height="40" width="40" /></a>
+<a href="https://github.com/SetiyoPramono" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/420…lgmaillogomailsocialsocialmedia-115677_115624.png" alt="aayushi-droid" height="40" width="40" /></a>
 </p>
 
 -----
