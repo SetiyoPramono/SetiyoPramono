@@ -16,7 +16,8 @@
 
 
 <p align="center">
-<a href="https://www.instagram.com/_pramono_/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfv797G2gmhZrcXoqVJghq12RhgisH80cFw&usqp=CAU" alt="aayushi-droid" height="40" width="40" /></a>
+  {/*<a href="https://www.instagram.com/_pramono_/" target="blank"><img align="center" src="" alt="aayushi-droid" height="40" width="40" /></a>*/}
+
 </p>
 
 -----
