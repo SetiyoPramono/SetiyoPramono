@@ -16,7 +16,7 @@
 
 
 <p align="center">
-<a href="https://github.com/SetiyoPramono" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/420…lgmaillogomailsocialsocialmedia-115677_115624.png" alt="aayushi-droid" height="40" width="40" /></a>
+<a href="https://github.com/SetiyoPramono" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="aayushi-droid" height="40" width="40" /></a>
 </p>
 
 -----
