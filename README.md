@@ -14,12 +14,6 @@
 
 
 
-
-<p align="center">
-  {/*<a href="https://www.instagram.com/_pramono_/" target="blank"><img align="center" src="" alt="aayushi-droid" height="40" width="40" /></a>*/}
-
-</p>
-
 -----
 Credits: [Setiyo_Pramono](https://github.com/SetiyoPramono)
 
