@@ -17,4 +17,6 @@
 -----
 Credits: [Setiyo_Pramono](https://github.com/SetiyoPramono)
 
-Last Edited on: 31/07/2022
+<p  align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SetiyoPramono&count_private=true&show_icons=true&theme=tokyonight"/>
+</p>
