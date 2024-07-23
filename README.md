@@ -8,8 +8,8 @@
 -CSS <br>
 -Javascript <br>
 -React JS <br>
--Next JS
--Wordpress
+-Next JS <br>
+-Wordpress <br>
 -Berdu
 
 <h4 align="center">Satu persatu error akan saya benarkan dengan susah payah wkwkwk</h4>
