@@ -9,6 +9,8 @@
 -Javascript <br>
 -React JS <br>
 -Next JS
+-Wordpress
+-Berdu
 
 <h4 align="center">Satu persatu error akan saya benarkan dengan susah payah wkwkwk</h4>
 
