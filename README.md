@@ -25,7 +25,7 @@ Credits: [Setiyo_Pramono](https://github.com/SetiyoPramono)
 ## My Status
 <p align="center">
 <a href="https://github.com/sitholewb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SetiyoPramono&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=SetiyoPramono&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SetiyoPramono&theme=tokyonight&layout=compact" />
 </a>
 </p>
