@@ -11,7 +11,7 @@
 -Next JS <br>
 -Wordpress <br>
 -Berdu <br>
--Full Stack Developer 
+-Full Stack Developer<br>
 -Managed Web Services Provider
 
 <h4 align="center">Satu persatu error akan saya benarkan dengan susah payah wkwkwk</h4>
